@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\horse\horse\bin\Debug\horse.exe.config
+c:\users\user\documents\visual studio 2015\Projects\horse\horse\obj\Debug\horse.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\horse\horse\obj\Debug\horse.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\horse\horse\obj\Debug\horse.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\horse\horse\obj\Debug\horse.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\horse\horse\bin\Debug\horse.exe
+c:\users\user\documents\visual studio 2015\Projects\horse\horse\bin\Debug\horse.pdb
+c:\users\user\documents\visual studio 2015\Projects\horse\horse\obj\Debug\horse.exe
+c:\users\user\documents\visual studio 2015\Projects\horse\horse\obj\Debug\horse.pdb
